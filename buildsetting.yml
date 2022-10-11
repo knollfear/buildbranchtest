@@ -1,6 +1,6 @@
 BuildSteps:
     dev: true
     QA: true
-    beta: false
-    betaWest: false
+    beta: true
+    betaWest: true
     Prod: true
